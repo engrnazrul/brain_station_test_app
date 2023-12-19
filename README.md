@@ -33,4 +33,4 @@ BrainS is a simple Flutter application built using the GetX state management lib
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/engrnazrul/BrainSTestApp.git
+   git clone https://github.com/engrnazrul/brain_station_test_app.git
