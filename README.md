@@ -34,3 +34,57 @@ BrainS is a simple Flutter application built using the GetX state management lib
 
    ```bash
    git clone https://github.com/engrnazrul/brain_station_test_app.git
+
+## Dependencies
+
+   # GET
+   get: 4.6.5
+   get_storage: 2.1.1
+   # DIO
+   dio: 4.0.6
+   dio_http_cache: 0.3.0
+   # FONT
+   google_fonts: 4.0.4
+   #IMAGES, SLIDERS, LAYOUTS
+   cached_network_image: 3.2.3
+   flutter_svg: 2.0.6
+   cupertino_icons: any
+   shimmer: 3.0.0
+   # Local Storage
+   sqflite: 2.3.0
+
+## Folder Structure
+   lib/
+   |-- app/
+   |   |-- exceptions/
+   |   |-- middlewares/
+   |   |-- models/
+   |   |-- modules/
+   |   |-- providers/
+   |   |-- repositories/
+   |   |-- routes/
+   |   |-- services/
+   |-- common/
+   |   |-- custom_trace.dart
+   |   |-- helper.dart
+   |   |-- ui.dart
+   |-- main.dart
+   |-- README.md
+   |-- ...
+
+## Contributing
+
+   We welcome contributions to this project. If you would like to contribute to the development or report issues, please follow these guidelines:
+   
+   1. Fork the repository.
+   
+   2. Create a new branch for your feature or bug fix.
+   
+   3. Make your changes and commit them with descriptive messages.
+   
+   4. Push your changes to your fork.
+   
+   5. Submit a pull request to the main repository.
+
+## License
+   License status presently unlicensed
