@@ -1,0 +1,14 @@
+<!--
+  ~ File name: AndroidManifest.xml
+  ~ Last modified: 2023.12.19
+  ~ Author: Brain Station 23 - https://brainstation-23.com/
+  ~ Copyright (c) 2023
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.brains.app">
+    <!-- Flutter needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
