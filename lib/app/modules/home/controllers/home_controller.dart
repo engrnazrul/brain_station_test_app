@@ -7,7 +7,7 @@
 
 import 'package:get/get.dart';
 import '../../../../common/ui.dart';
-import '../../../models/slide_model.dart';
+import '../../../models/repository_list_model.dart';
 import '../../../repositories/slider_repository.dart';
 
 class HomeController extends GetxController {

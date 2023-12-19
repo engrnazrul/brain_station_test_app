@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
 
-import '../models/slide_model.dart';
+import '../models/repository_list_model.dart';
 import '../providers/laravel_provider.dart';
 
 class SliderRepository {
